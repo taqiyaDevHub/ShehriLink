@@ -12,4 +12,4 @@ pinned: false
 # ShehriLink
 
 Municipal complaint resolution: a LangGraph agent backend, a FastAPI + SQLite database backend and a
-React frontend, running together in one Space. Source: https://github.com/Zainab-Siddiq/ShehriLink
+React frontend, running together in one Space. Source: https://github.com/taqiyaDevHub/ShehriLink
